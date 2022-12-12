@@ -1,0 +1,38 @@
+{
+  "A": [
+    "AIRBUS",
+    "AERO",
+    "ATR",
+    "AIRSPEED",
+    "ANTONOV"
+  ],
+  "B": [
+    "BOEING",
+    "BEECHCRAFT",
+    "BELL",
+    "BAC",
+    "BRISTOL",
+    "BOMBARDIER",
+    "BAE"
+  ],
+  "C": [
+    "COMAC",
+    "CONDORDE",
+    "CONVAIR"
+  ],
+  "D": [
+    "DOUGLAS",
+    "DASSAULT",
+    "DEHAVILLAND",
+    "DORNIER",
+    "DIEHL",
+    "DORNIER"
+  ],
+  "E": [
+    "EMBRAER"
+  ],
+  "F": [
+    "FOKKER"
+  ],
+
+}
